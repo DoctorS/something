@@ -1,0 +1,14 @@
+{
+  "proseWrap": "never",
+  "semi": false,
+  "singleQuote": true,
+  "printWidth": 180,
+  "overrides": [
+    {
+      "files": "*.js",
+      "options": {
+        "semi": false
+      }
+    }
+  ]
+}
